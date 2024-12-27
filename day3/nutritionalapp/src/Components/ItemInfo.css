@@ -1,0 +1,12 @@
+.component .dataitem .label {
+  font-weight: bold;
+  display: inline-block;
+  width: 30%;
+  text-align: left;
+}
+
+.component .dataitem .value {
+  font-size: large;
+  display: inline-block;
+  width: 30%;
+}

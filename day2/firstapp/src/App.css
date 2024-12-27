@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.UserDetails {
+  margin: 20px;
+}
+
+.datarow {
+  width: 80%;
+  margin: 10px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.label {
+  width: 100px;
+}
+
+.input-type {
+  width: 200px;
+}

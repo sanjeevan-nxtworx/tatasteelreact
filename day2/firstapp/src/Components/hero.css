@@ -1,0 +1,12 @@
+.hero {
+  width: 50%;
+  margin: auto;
+  border: 1px black solid;
+  border-radius: 10px;
+}
+
+.operateBtn {
+  width: 75px;
+  height: 20px;
+  margin-right: 10px;
+}

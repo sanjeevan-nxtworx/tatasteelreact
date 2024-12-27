@@ -1,0 +1,50 @@
+.ItemTable {
+  width: 80%;
+  margin: auto;
+}
+
+.Header {
+  font-weight: bold;
+  background-color: beige;
+  color: black;
+  border: 1px solid lightgray;
+}
+
+.Header .Id {
+  display: inline-block;
+  width: 5%;
+  border-right: 1px solid lightgray;
+}
+
+.Header .Name {
+  display: inline-block;
+  width: 15%;
+  border-right: 1px solid lightgray;
+}
+
+.Header .Description {
+  display: inline-block;
+  width: 79%;
+  border-right: 1px solid lightgray;
+}
+
+.ItemDetail {
+  color: black;
+  border: 1px solid lightgray;
+}
+
+.ItemDetail .Id {
+  display: inline-block;
+  width: 5%;
+  align-items: center;
+}
+
+.ItemDetail .Name {
+  display: inline-block;
+  width: 15%;
+}
+
+.ItemDetail .Description {
+  display: inline-block;
+  width: 79%;
+}

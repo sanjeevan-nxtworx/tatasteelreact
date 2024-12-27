@@ -1,0 +1,17 @@
+.App {
+  margin: auto;
+  width: 60%;
+}
+
+.FeaturedDiv {
+  margin: 10px;
+  border: 1px solid gainsboro;
+  background-color: #ebe8fc;
+}
+
+.featuredDiv .title {
+  margin: 10px;
+  background-color: #c0afe2;
+  padding: 10px;
+  font-weight: bold;
+}
